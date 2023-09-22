@@ -1,7 +1,6 @@
 # AboutMe
-Pagina de perfil personal.
-
-Hola! Soy Nathalia Fernandez - Data Scientist y Technical Manager👋 ⁣⁣
+## Hola! Soy Nathalia Fernandez - Data Scientist y Technical Manager👋
+⁣⁣
 Apasionada por el analisis de datos.
 
 💻 Actualmente me encuentro trabajando como Technical Manager.
