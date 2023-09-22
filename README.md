@@ -7,7 +7,7 @@ Me considero apasionada por el análisis de datos.
 
 🎓 Con mi especializacion en Data Literacy aprendi de Tableau, SQL y R. 
 
-👨‍🎓 Con mi Master de Data Science aprendí todas las librerías de Python relacionadas al análisis de datos como pandas, numpy, matplotlib, seaborn, scipy, scikit-learn, keras, tensorflow, entre otras. Tambien el uso de herramientas como R, SQL, PowerBI, Databricks, Jupyter, GoogleColab, Qgis, NoSql, etc.
+👨‍🎓 Con mi Master de Data Science aprendí acerca de todas las librerías de Python relacionadas al análisis de datos como pandas, numpy, matplotlib, seaborn, scipy, scikit-learn, keras, tensorflow, entre otras. Tambien el uso de herramientas como R, SQL, PowerBI, Databricks, Jupyter, GoogleColab, Qgis, NoSql, etc.
 
 📈 Estoy en constante aprendizaje, me apasiona seguir estudiando y capacitandome, actualmente estoy cursando capacitaciones en Pentaho y Spark para ETL y Web Scraping con Python para seguir complementando mis conocimientos.
 
