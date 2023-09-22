@@ -1,6 +1,4 @@
-# AboutMe
-
-## Hola! Soy Nathalia Fernandez 👋
+# Hola! Soy Nathalia Fernandez 👋
 ## Data Analyst/Scientist 📊 y Technical Manager 🖥️.
 ⁣⁣
 Me considero apasionada por el análisis de datos.
