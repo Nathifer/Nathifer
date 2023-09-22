@@ -36,6 +36,4 @@ Me considero apasionada por el análisis de datos.
 # Contacto:
 📧 Si deseas contactarme puedes hacerlo directamente por [LinkedIn](https://www.linkedin.com/in/nathaliafr/) o enviarme un email a nathaliafernandezr95@gmail.com
 
-🔎 Puedes consultar algunos de mis proyectos abajo.
-
 👏 ¡Por favor, dame un ⭐️ si te gustan mis repositorios!
