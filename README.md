@@ -3,7 +3,7 @@
 ⁣⁣
 Me considero apasionada por el análisis de datos.
 
-💻 Actualmente me encuentro trabajando como Technical Manager.
+💻 Actualmente me encuentro trabajando como Data Engineer.
 
 🎓 Con mi especializacion en Data Literacy aprendi de Tableau, SQL y R. 
 
