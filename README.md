@@ -3,13 +3,13 @@
 ⁣⁣
 Me considero apasionada por el análisis de datos.
 
-💻 Actualmente me encuentro trabajando como Data Engineer.
+💻 Actualmente me encuentro trabajando como Data Engineer en una empresa del sector logístico.
 
-🎓 Con mi especializacion en Data Literacy aprendi de Tableau, SQL y R. 
+🎓 Tengo una especializacion en Data Literacy donde adquirí conocimientos de Tableau, SQL y R. 
 
-👨‍🎓 Con mi Master de Data Science aprendí acerca de todas las librerías de Python relacionadas al análisis de datos como pandas, numpy, matplotlib, seaborn, scipy, scikit-learn, keras, tensorflow, entre otras. Tambien el uso de herramientas como R, SQL, PowerBI, Databricks, Jupyter, GoogleColab, Qgis, NoSql, etc.
+👨‍🎓 Complementé mi especializacion con un Master de Data Science donde adquirí conocimientos sobre librerías de Python relacionadas al análisis de datos como pandas, numpy, matplotlib, seaborn, scipy, scikit-learn, keras, tensorflow, entre otras. Tambien el uso de R, SQL, PowerBI, Databricks, Jupyter, GoogleColab, Qgis, NoSql, etc.
 
-📈 Estoy en constante aprendizaje, me apasiona seguir estudiando y capacitandome, actualmente estoy cursando capacitaciones en Pentaho y Spark para ETL y Web Scraping con Python para seguir complementando mis conocimientos.
+📈 Estoy en constante aprendizaje, me apasiona seguir estudiando y capacitandome.
 
 📊 Estoy interesado en colaboraciones relacionadas con el analisis y la ciencia de datos.
 
