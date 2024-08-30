@@ -3,7 +3,7 @@
 ⁣⁣
 Me considero apasionada por el análisis de datos.
 
-💻 Actualmente me encuentro trabajando como Data Engineer en una empresa del sector logístico.
+💻 Actualmente me encuentro trabajando como Data Engineer con las siguientes herramientas (SQL, Pyspark, Databricks, Azure(Synapse & Factory), Power Bi.
 
 🎓 Tengo una especializacion en Data Literacy donde adquirí conocimientos de Tableau, SQL y R. 
 
