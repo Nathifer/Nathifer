@@ -47,6 +47,6 @@ I handle tools like: ServiceNow, Drawio, Webex, among others such as:
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Contact
-📧 If you wish to contact me, you can do so directly via  [LinkedIn](https://www.linkedin.com/in/nathaliafr/)  or by sending an email to nathaliafernandezr95@gmail.com
+📧 If you wish to contact me, you can do so directly via  [LinkedIn](https://www.linkedin.com/in/nathaliafr/?locale=en_US)  or by sending an email to nathaliafernandezr95@gmail.com
 
 👏 Please give me a ⭐️ if you like my repositories!
