@@ -1,9 +1,9 @@
 # Hola! Soy Nathalia Fernandez 👋
-## Data Engineer/Analyst 📊 y Technical Manager 🖥️.
+## Data Engineer/Scientist 📊 y Technical Lead 🖥️.
 ⁣⁣
-Me considero apasionada por el análisis de datos.
+Me considero apasionada de los datos.
 
-💻 Actualmente me encuentro trabajando como Data Engineer con las siguientes herramientas (SQL, Pyspark, Databricks, Azure(Synapse & Factory), Power Bi.
+💻 Actualmente me encuentro trabajando como Data Engineer con las siguientes herramientas (SQL, Pyspark, Databricks, Azure(Synapse & Factory), PowerBi.
 
 🎓 Tengo una especializacion en Data Literacy donde adquirí conocimientos de Tableau, SQL y R. 
 
@@ -16,8 +16,9 @@ Me considero apasionada por el análisis de datos.
 🏋️‍♂️ Disfruto entrenando, mi manera de desconectar es haciendo Crossfit. 
 
 # Hello! I'm Nathalia Fernandez 👋
-## Data Engineer/Analyst 📊 and Technical Manager 🖥️
-I am passionate about data analysis.
+## Data Engineer/Scientist 📊 and Technical Lead 🖥️
+
+I am passionate about data.
 
 💻 Currently, I am working as a Data Engineer using the following tools: SQL, Pyspark, Databricks, Azure (Synapse & Factory), and Power BI.
 
