@@ -1,4 +1,4 @@
-# Hola! Soy Nathalia Fernandez 👋
+# Hola! Soy Nathalia 👋
 ## Data Engineer/Scientist 📊 y Technical Lead 🖥️.
 ⁣⁣
 Me considero apasionada de los datos.
